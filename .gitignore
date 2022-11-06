@@ -41,3 +41,13 @@ vignettes/*.pdf
 # default html
 docs/*html
 *html
+
+# odds and ends
+~*.docx
+~*.xlsx
+~*.pptx
+~*.tmp
+~*.rtf
+Thumbs.db
+.DS_Store
+*.swp
